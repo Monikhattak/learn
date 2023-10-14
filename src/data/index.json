@@ -1,0 +1,76 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "An enthusiastic and detail-oriented  Frontend Developer with proficient knowledge in HTML and CSS, as well as third-party libraries such as jQuery,  and React. Seeking to utilize my technical skills and expertise to provide value to the employer and contribute to successful projects both today and in the future. Aiming to take on new challenges and utilize my coding and debugging skills for developing new features and enhance the overall user experience."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Language ",
+      "description": "  URDU  :Native ,ENGLISH: Conversional , Pashto : Native "
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": " UI & UX Design",
+      "description": "Leveraged agile methodology to automate tasks and maintain code quality while developing web-frontend logic with HTML, JavaScript, and CSS.Integrated user interface components with server-side logic to enhance user experience and optimize applications for maximum efficiency and scalability Worked closely with design and development teams to build and improve UIs, resulting in 3 successful projects update release cycles."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "SKILL",
+      "description": "HTML5 ,CSS3 ,JavaScript  UX/UI Design , Cross-Browser, Compatibility , Responsive Web Desig , React.js , jQuery,  Bootstrap5,   VersionControl SystemsWeb Security Testing and Debugging ,Mobile Development , Project Management, Agile Methodologies "
+    }],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Travel WEB",
+      "description": "Whether you're planning a family vacation, a romantic getaway, or a business trip, our online travel website has everything you need to make your travel planning experience simple and enjoyable. We are committed to offering the best prices, excellent customer service, and reliable travel information to make your dream trip a reality.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Admin Dashboard",
+      "description": "An admin dashboard allows at-a-glance access to the crucial information for the specific needs of a particular professional or a team. Dashboards provide users with a comprehensive overview of the key data, reports, KPIs, etc., and enable drilling down to more details if required. Normally, an admin dashboard is a single screen that includes all crucial information.",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Real Estate",
+      "description": "Building a real estate website should have a purpose. The purpose of all real estate platforms is to efficiently solve a user’s problem – search for a new home in a quick and troublesome way. To do that, an app should.Provide enough options of properties for potential buyers and renter. Enable users to find the best matching property. Provide the possibility to reach a real estate agent;Allow for effective research of a real estate item.",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
